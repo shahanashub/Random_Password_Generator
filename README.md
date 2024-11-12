@@ -42,4 +42,4 @@ Usage:-
 
     step 2:-
     Clone the repository git clone
-    
+    https://github.com/shahanashub/Random_Password_Generator.git
